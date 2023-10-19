@@ -1,0 +1,30 @@
+@font-face {
+  font-family: ProductSans;
+  src: url("../src/assets/fonts/ProductSans-Medium.ttf") format("ttf");
+  font-weight: 300 800;
+  font-style: medium;
+}
+@font-face {
+  font-family: ProductSans;
+  src: url("../src/assets/fonts/ProductSans-Bold.ttf") format("ttf");
+  font-weight: 300 800;
+  font-style: bold;
+}
+@font-face {
+  font-family: ProductSans;
+  src: url("../src/assets/fonts/ProductSans-Regular.ttf") format("ttf");
+  font-weight: 300 800;
+  font-style: regular;
+}
+@font-face {
+  font-family: UniSans;
+  src: url("../src/assets/fonts/UniSans-Heavy.otf") format("otf");
+  font-weight: 800;
+  font-style: heavy;
+}
+@font-face {
+  font-family: UniSans;
+  src: url("../src/assets/fonts/UniSans-Thin.otf") format("otf");
+  font-weight: 300;
+  font-style: Thin;
+}

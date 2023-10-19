@@ -20,12 +20,5 @@ This repository contains the code for a musical equipments store website created
 
 To use the website, simply browse the products, add the ones you want to your cart, and checkout. You can also read the articles or contact the store using the contact form.
 
-## Contributions
-the main contributors for this project were [Lakdini01](https://github.com/lakdini01), [vAnuththara](https://github.com/vAnuththara), [TashiniRebeca](https://github.com/TashiniRebeca) and [Sanzserif](https://github.com/sanzserif).
 
-## Contact
 
-If you have any questions about this project, please contact us at via above github profiles! we're happy to help!
-
-## Date
-This project was created on 2023-03-16.
